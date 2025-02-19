@@ -1,0 +1,6 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/FindPkgConfig.cmake
+C:/Users/Szymon/QtProjects/AudioModifier/thirdparty/libsamplerate-master/cmake/FindFFTW3.cmake
+C:/Users/Szymon/QtProjects/AudioModifier/thirdparty/libsamplerate-master/tests/CMakeLists.txt

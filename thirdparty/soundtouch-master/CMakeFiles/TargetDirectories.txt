@@ -1,0 +1,3 @@
+C:/Users/Szymon/QtProjects/AudioModifier/thirdparty/soundtouch-master/CMakeFiles/SoundTouch.dir
+C:/Users/Szymon/QtProjects/AudioModifier/thirdparty/soundtouch-master/CMakeFiles/ALL_BUILD.dir
+C:/Users/Szymon/QtProjects/AudioModifier/thirdparty/soundtouch-master/CMakeFiles/ZERO_CHECK.dir

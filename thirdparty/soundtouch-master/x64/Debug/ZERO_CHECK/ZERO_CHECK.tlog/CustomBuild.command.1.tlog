@@ -1,0 +1,10 @@
+^C:\USERS\SZYMON\QTPROJECTS\AUDIOMODIFIER\THIRDPARTY\SOUNDTOUCH-MASTER\CMAKEFILES\B60B1E08C1F5BA45FA8C9151D58CCCF1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Szymon/QtProjects/AudioModifier/thirdparty/soundtouch-master -BC:/Users/Szymon/QtProjects/AudioModifier/thirdparty/soundtouch-master --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Szymon/QtProjects/AudioModifier/thirdparty/soundtouch-master/SoundTouch.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
